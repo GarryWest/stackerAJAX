@@ -44,3 +44,29 @@
 	background-color: #F78181;
 	padding: 1em;
 }
+
+.column {
+    float: left;
+}
+
+.column dt {
+    float: left;
+    clear: left;
+}
+
+.inline {
+    clear: none;
+    float: left;
+    margin-left: 10px;
+}
+
+.answerer-text {
+	clear: left;
+	float: left;
+}
+
+.answerer-image {
+	clear: none;
+    float: left;
+	margin: 0 auto;
+}
